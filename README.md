@@ -1,3 +1,12 @@
+# 📂 Topic-Modelling-using-Bunka-with-Topics
+
+📝 Problem Statement:
+Perform topic modeling to uncover dominant themes within patent texts related to next-generation telecom technologies.
+
+🎯 Task:
+Apply Bunka to perform topic modeling exclusively on the subset of patents labeled as **4G**, in order to identify key focus areas and trends within 4G innovation.
+
+
 🧠 Bunka Topic Modeling Pipeline
 
 1️⃣ 🧹 Text Cleaning
